@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/music-page-react/static/css/main.3ef5e63b.css",
+    "main.js": "/music-page-react/static/js/main.9649d3ca.js",
+    "static/js/453.9feb08e2.chunk.js": "/music-page-react/static/js/453.9feb08e2.chunk.js",
+    "static/media/Bloody_Mary.mp3": "/music-page-react/static/media/Bloody_Mary.8f0e86b2e22fed032411.mp3",
+    "index.html": "/music-page-react/index.html",
+    "main.3ef5e63b.css.map": "/music-page-react/static/css/main.3ef5e63b.css.map",
+    "main.9649d3ca.js.map": "/music-page-react/static/js/main.9649d3ca.js.map",
+    "453.9feb08e2.chunk.js.map": "/music-page-react/static/js/453.9feb08e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ef5e63b.css",
+    "static/js/main.9649d3ca.js"
+  ]
+}
